@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wmHGFyVPZvC0h0K1rsKAhkmonxfJnDzgnVNbEhmnFR4uxIua5H8FzGqKTclj/we1BbebUsCZvLltUnIB0G/6Zg==",
+  "dgSpecHash": "HF5tZmrU8DCYJYc/00bj28KHGSBVcE37GnRme8qQFyhnv2zgMh67ijWvSTVw8QzWVaVN8LpXqpb3asBzU8PRSw==",
   "success": true,
-  "projectFilePath": "D:\\backends\\product\\product.csproj",
+  "projectFilePath": "d:\\backends\\product\\product.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

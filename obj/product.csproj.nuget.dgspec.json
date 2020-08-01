@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\backends\\product\\product.csproj": {}
+    "d:\\backends\\product\\product.csproj": {}
   },
   "projects": {
-    "D:\\backends\\product\\product.csproj": {
+    "d:\\backends\\product\\product.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\backends\\product\\product.csproj",
+        "projectUniqueName": "d:\\backends\\product\\product.csproj",
         "projectName": "product",
-        "projectPath": "D:\\backends\\product\\product.csproj",
+        "projectPath": "d:\\backends\\product\\product.csproj",
         "packagesPath": "C:\\Users\\leman\\.nuget\\packages\\",
-        "outputPath": "D:\\backends\\product\\obj\\",
+        "outputPath": "d:\\backends\\product\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
